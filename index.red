@@ -23,6 +23,7 @@ Article: [
         .title: {Webdesign}
         .links: [
             "CSS" %./css
+            "Figma" %./figma
         ]    
     ]  
 

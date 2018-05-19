@@ -9,3 +9,5 @@
 
 - [CSS](./css)
                         
+- [Figma](./figma)
+                        
