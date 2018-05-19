@@ -4,9 +4,14 @@
 
 ### CSS Tutorials - Beginner Level
 
+Tutorials:
+Courses:
+- [Intro to HTML and CSS - Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001?utm_medium=referral&utm_campaign=api)
+                        
 
 ### CSS Tutorials - Intermediate Level
 
+Tutorials:
 - [How to start building CSS for your website?](https://codeburst.io/how-to-start-building-css-for-your-website-d0714763fb18)
                         
 

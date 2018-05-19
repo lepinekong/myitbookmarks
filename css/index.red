@@ -15,15 +15,22 @@ Article: [
 
     tutorials-beginner: [
         .title: {CSS Tutorials - Beginner Level}
+        .text: {Tutorials:}
         .links: [
-        ]    
+        ]  
+        .text: {Courses:}
+        .links: [
+            {Intro to HTML and CSS - Udacity} https://www.udacity.com/course/intro-to-html-and-css--ud001?utm_medium=referral&utm_campaign=api
+        ]          
     ]
 
     tutorials-intermediate: [
         .title: {CSS Tutorials - Intermediate Level}
+        .text: {Tutorials:}
         .links: [
             {How to start building CSS for your website?} https://codeburst.io/how-to-start-building-css-for-your-website-d0714763fb18
         ]    
+
     ]
 
     tutorials-pro: [
