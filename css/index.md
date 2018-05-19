@@ -1,5 +1,5 @@
 
-# Index of c:\rebol\.system.user\.data\.activities\myITBookmarks\.github\css
+# Index of Css
 
 
 ### CSS Tutorials - Beginner Level

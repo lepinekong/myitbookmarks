@@ -1,5 +1,5 @@
 Red [
-    Title: "c:\rebol\.system.user\.data\.activities\myITBookmarks\.github\css"
+    Title: "Index of Css"
 ]
 
 Source: [
@@ -11,7 +11,7 @@ Source: [
 
 Article: [
 
-    Title: {Index of c:\rebol\.system.user\.data\.activities\myITBookmarks\.github\css}
+    Title: {Index of Css}
 
     tutorials-beginner: [
         .title: {CSS Tutorials - Beginner Level}
