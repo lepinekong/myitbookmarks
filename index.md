@@ -9,6 +9,8 @@
 
 - [Bootstrap](./bootstrap)
                         
+- [BrowserSync](./browsersync)
+                        
 - [CSS](./css)
                         
 - [Figma](./figma)

@@ -1,5 +1,5 @@
 Red [
-    Title: "My IT Bookmarks"
+    Title: "c:\rebol\.system.user\.data\.activities\myITBookmarks\.github\browsersync"
 ]
 
 Source: [
@@ -11,23 +11,15 @@ Source: [
 
 Article: [
 
-    Title: {Index of myITBookmarks}
+    Title: {Index of c:\rebol\.system.user\.data\.activities\myITBookmarks\.github\browsersync}
 
-    UXDesign: [
-        .title: {UX Design}
-        .links: [
-        ]    
-    ]  
+    Setup: [
+        .title: {Setup} 
 
-    Webdesign: [
-        .title: {Webdesign}
         .links: [
-            "Bootstrap" %./bootstrap
-            "BrowserSync" %./browsersync
-            "CSS" %./css
-            "Figma" %./figma
+            {Live reload your website with Browser-Sync (Windows)} https://www.youtube.com/watch?v=Mnw92LBKuVQ
         ]    
-    ]  
+    ]
 
 ]  
 
