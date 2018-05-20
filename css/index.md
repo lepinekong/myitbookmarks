@@ -11,6 +11,9 @@ Courses:
                         
 - [Intro to HTML and CSS - Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001?utm_medium=referral&utm_campaign=api)
                         
+Blogs:
+- [css-tricks](https://css-tricks.com)
+                        
 
 ### Intermediate Level
 
