@@ -7,7 +7,7 @@
 Tutorials
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yfoY53QXEnI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 Courses:
-- [html & css is hard (But it doesn’t have to be) - A friendly web development tutorial for complete beginners](https://internetingishard.com/)
+- [html & css is hard (But it doesn’t have to be) - A friendly web development tutorial for complete beginners <span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>](https://internetingishard.com/)
                         
 - [Intro to HTML and CSS - Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001?utm_medium=referral&utm_campaign=api)
                         
