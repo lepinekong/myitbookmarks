@@ -42,6 +42,7 @@ Article: [
         .links: [
             {CSS Isn’t Black Magic - Jul 10, 2017} https://medium.freecodecamp.org/its-not-dark-magic-pulling-back-the-curtains-from-your-stylesheets-c8d677fa21b2            
             {The King vs. Pawn Game of UI Design} http://alistapart.com/article/the-king-vs-pawn-game-of-ui-design
+            {How to Design and Code a Responsive Illustration Style Website} https://www.youtube.com/watch?v=TCaktFI3wCA
         ]    
     ]  
 
@@ -50,6 +51,7 @@ Article: [
         .links: [
             {Modern CSS: You Can Do It!} https://www.youtube.com/watch?v=hO-7Xg9HuX0
             {Responsive Web Design: Beyond Media Queries} https://www.youtube.com/watch?v=Wb5xDcUNq48            
+            {Creative SVG Backgrounds for Modern Web Design} https://www.youtube.com/watch?v=OjIxscGV-Qg
         ]    
     ]
 
