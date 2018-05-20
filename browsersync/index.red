@@ -1,5 +1,5 @@
 Red [
-    Title: "c:\rebol\.system.user\.data\.activities\myITBookmarks\.github\browsersync"
+    Title: "Browsersync"
 ]
 
 Source: [
@@ -11,7 +11,7 @@ Source: [
 
 Article: [
 
-    Title: {Index of c:\rebol\.system.user\.data\.activities\myITBookmarks\.github\browsersync}
+    Title: {Index of Browsersync}
 
     Setup: [
         .title: {Setup} 

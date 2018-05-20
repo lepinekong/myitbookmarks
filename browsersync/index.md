@@ -1,5 +1,5 @@
 
-# Index of c:\rebol\.system.user\.data\.activities\myITBookmarks\.github\browsersync
+# Index of Browsersync
 
 
 ### Setup
