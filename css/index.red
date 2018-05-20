@@ -29,6 +29,7 @@ Article: [
         .title: {CSS Tutorials - Intermediate Level}
         .text: {Tutorials:}
         .links: [
+            {Build An HTML5 Website With A Responsive Layout} https://www.youtube.com/watch?v=Wm6CUkswsNw
             {How to start building CSS for your website?} https://codeburst.io/how-to-start-building-css-for-your-website-d0714763fb18
         ]    
 
