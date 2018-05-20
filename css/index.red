@@ -43,7 +43,15 @@ Article: [
             {CSS Isn’t Black Magic - Jul 10, 2017} https://medium.freecodecamp.org/its-not-dark-magic-pulling-back-the-curtains-from-your-stylesheets-c8d677fa21b2            
             {The King vs. Pawn Game of UI Design} http://alistapart.com/article/the-king-vs-pawn-game-of-ui-design
         ]    
-    ]    
+    ]  
+
+    tutorials-expert: [
+        .title: {CSS Tutorials - Expert Level}
+        .links: [
+            {Responsive Web Design: Beyond Media Queries} https://www.youtube.com/watch?v=Wb5xDcUNq48            
+        ]    
+    ]
+
 ]  
 
 do read http://readablehumanformat.com/lib.red
