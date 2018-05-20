@@ -14,7 +14,7 @@ Article: [
     Title: {Index of Css}
 
     tutorials-beginner: [
-        .title: {CSS Tutorials - Beginner Level}
+        .title: {Beginner Level}
         .text: {Tutorials}
         .links: [
             {CSS Crash Course For Absolute Beginners - Youtube} https://www.youtube.com/watch?v=yfoY53QXEnI
@@ -28,7 +28,7 @@ Article: [
     ]
 
     tutorials-intermediate: [
-        .title: {CSS Tutorials - Intermediate Level}
+        .title: {Intermediate Level}
         .text: {Tutorials:}
         .links: [
             {Build An HTML5 Website With A Responsive Layout} https://www.youtube.com/watch?v=Wm6CUkswsNw
@@ -40,7 +40,7 @@ Article: [
     ]
 
     tutorials-pro: [
-        .title: {CSS Tutorials - Pro Level}
+        .title: {Pro Level}
         .links: [
             {CSS Isn’t Black Magic - Jul 10, 2017} https://medium.freecodecamp.org/its-not-dark-magic-pulling-back-the-curtains-from-your-stylesheets-c8d677fa21b2            
             {The King vs. Pawn Game of UI Design} http://alistapart.com/article/the-king-vs-pawn-game-of-ui-design
