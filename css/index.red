@@ -17,12 +17,12 @@ Article: [
         .title: {CSS Tutorials - Beginner Level}
         .text: {Tutorials}
         .links: [
-            {interneting is hard (But it doesn’t have to be) - Friendly web development tutorials for complete beginners} 
-            https://internetingishard.com/
             {CSS Crash Course For Absolute Beginners - Youtube} https://www.youtube.com/watch?v=yfoY53QXEnI
         ]
         .text: {Courses:}
         .links: [
+            {html & css is hard (But it doesn’t have to be) - A friendly web development tutorial for complete beginners} 
+            https://internetingishard.com/            
             {Intro to HTML and CSS - Udacity} https://www.udacity.com/course/intro-to-html-and-css--ud001?utm_medium=referral&utm_campaign=api
         ]          
     ]
