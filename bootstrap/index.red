@@ -16,7 +16,7 @@ Article: [
     Intermediate-Level: [
         .title: {Intermediate Level}
         .links: [
-            {Build a Bootstrap Theme With Scroll Animation} https://www.youtube.com/watch?v=ePgnR4gHIi4&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=13
+            {Build a Bootstrap Theme With Scroll Animation} https://www.youtube.com/watch?v=ePgnR4gHIi4
         ]    
     ]
 
