@@ -21,7 +21,7 @@ Article: [
         ]
         .text: {Courses:}
         .links: [
-            {html & css is hard (But it doesn’t have to be) - A friendly web development tutorial for complete beginners <span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>} 
+            {html & css is hard (But it doesn’t have to be) - A friendly web development tutorial for complete beginners &middot; <span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>} 
             https://internetingishard.com/            
             {Intro to HTML and CSS - Udacity} https://www.udacity.com/course/intro-to-html-and-css--ud001?utm_medium=referral&utm_campaign=api
         ] 
