@@ -22,6 +22,7 @@ Article: [
     Webdesign: [
         .title: {Webdesign}
         .links: [
+            "Bootstrap" %./bootstrap
             "CSS" %./css
             "Figma" %./figma
         ]    
