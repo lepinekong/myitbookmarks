@@ -15,9 +15,10 @@ Article: [
 
     tutorials-beginner: [
         .title: {CSS Tutorials - Beginner Level}
-        .text: {Tutorials:}
+        .text: {Tutorials}
         .links: [
-        ]  
+            {CSS Crash Course For Absolute Beginners - Youtube} https://www.youtube.com/watch?v=yfoY53QXEnI
+        ]
         .text: {Courses:}
         .links: [
             {Intro to HTML and CSS - Udacity} https://www.udacity.com/course/intro-to-html-and-css--ud001?utm_medium=referral&utm_campaign=api

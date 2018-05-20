@@ -4,7 +4,8 @@
 
 ### CSS Tutorials - Beginner Level
 
-Tutorials:
+Tutorials
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yfoY53QXEnI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 Courses:
 - [Intro to HTML and CSS - Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001?utm_medium=referral&utm_campaign=api)
                         
