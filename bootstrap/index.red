@@ -16,6 +16,7 @@ Article: [
     Intermediate-Level: [
         .title: {Intermediate Level}
         .links: [
+            {Responsive Bootstrap Website Tutorial with Full Screen Landing Page} https://www.youtube.com/watch?v=Zn64_IVLO88
             {Build a Bootstrap Theme With Scroll Animation} https://www.youtube.com/watch?v=ePgnR4gHIi4
         ]    
     ]
