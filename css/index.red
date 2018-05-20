@@ -17,6 +17,8 @@ Article: [
         .title: {CSS Tutorials - Beginner Level}
         .text: {Tutorials}
         .links: [
+            {interneting is hard (But it doesn’t have to be) - Friendly web development tutorials for complete beginners} 
+            https://internetingishard.com/
             {CSS Crash Course For Absolute Beginners - Youtube} https://www.youtube.com/watch?v=yfoY53QXEnI
         ]
         .text: {Courses:}

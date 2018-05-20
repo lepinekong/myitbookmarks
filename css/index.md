@@ -5,6 +5,8 @@
 ### CSS Tutorials - Beginner Level
 
 Tutorials
+- [interneting is hard (But it doesn’t have to be) - Friendly web development tutorials for complete beginners](https://internetingishard.com/)
+                        
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yfoY53QXEnI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 Courses:
 - [Intro to HTML and CSS - Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001?utm_medium=referral&utm_campaign=api)
