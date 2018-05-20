@@ -13,6 +13,13 @@ Article: [
 
     Title: {Index of myITBookmarks}
 
+    OS: [
+        .title: {Operating System}
+        .links: [
+            Linux %./linux
+        ]    
+    ]     
+
     UXDesign: [
         .title: {UX Design}
         .links: [
