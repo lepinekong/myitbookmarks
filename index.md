@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # Index of myITBookmarks
 
