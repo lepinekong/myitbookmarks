@@ -1,5 +1,5 @@
 
-# Index of redlang
+# Rebol / Redlang Bookmarks
 
 
 ### Redlang Blogs

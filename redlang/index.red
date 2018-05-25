@@ -1,5 +1,5 @@
 Red [
-    Title: "Redlang Bookmarks"
+    Title: "Rebol / Redlang Bookmarks"
 ]
 
 Source: [
@@ -11,7 +11,7 @@ Source: [
             
 Article: [
 
-    Title: {Index of redlang}
+    Title: {Rebol / Redlang Bookmarks}
 
     Redlang-Blogs: [
         .title: {Redlang Blogs}
