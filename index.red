@@ -24,6 +24,7 @@ Article: [
         .title: {Programming Languages}
         .links: [
             {Elm} %./elm
+            {Rebol/Redlang} %./redlang
         ]
     ]  
 

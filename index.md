@@ -11,6 +11,8 @@
 
 - [Elm](./elm)
                         
+- [Rebol/Redlang](./redlang)
+                        
 
 ### Protocols
 
